@@ -1,0 +1,18 @@
+This is a file describing the components within the Sample Folder (contating all intelliJ projects)
+
+First Part of Assignment (Without GUI):
+The first part of assignment contains 5 files where it takes orders from a customer using a menu in (file.txt) and outputs cost
+"Order"
+"Cashier"
+"MenuItem"
+"Menu"
+"Restaraunt" 
+The file that tests the outputs of these classes is "MenuTest"
+
+The Second Part of Assignment (Including a GUI):
+MODEL:
+"Menu" and "MenuItem"
+VIEW:
+"OrderForm"
+CONTROLLER:
+"OrderFormApp"
